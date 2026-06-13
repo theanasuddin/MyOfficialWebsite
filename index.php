@@ -10,6 +10,7 @@
 <link rel="mask-icon" href="images/favicon/safari-pinned-tab.svg" color="#0b98ea">
 <meta name="msapplication-TileColor" content="#0b98ea">
 <meta name="theme-color" content="#ffffff">
+<meta name="google-site-verification" content="awIDu6KZ3YeEB2Zgw6UIqcrA3tBbKoz35IN_8MU7lXA" />
 <!-- Favicon -->
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
